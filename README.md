@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ Muhammad Sagheer 
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... React js + Vite
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: Coding
+👋 Hi, I'm Muhammad Sagheer
 
-<!---
-Sagheer2003/Sagheer2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Senior IT Professional | Data Analytics & BI Specialist | Full-Stack Web Developer | IT Trainer
+
+👀 Interested in Full-Stack Web Development, Data Analytics, Business Intelligence, and AI.
+
+🌱 Currently learning React.js, Vite, and Next.js.
+
+💞️ Open to collaborating on React.js, Full-Stack, and Open-Source projects.
+
+📫 Reach me via LinkedIn, GitHub, or Email.
+
+⚡ Passionate about building scalable applications and data-driven solutions.
